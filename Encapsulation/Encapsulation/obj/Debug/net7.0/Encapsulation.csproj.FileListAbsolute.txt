@@ -1,0 +1,15 @@
+C:\Users\murat\source\repos\PatikaExamples\Encapsulation\Encapsulation\obj\Debug\net7.0\Encapsulation.csproj.AssemblyReference.cache
+C:\Users\murat\source\repos\PatikaExamples\Encapsulation\Encapsulation\obj\Debug\net7.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murat\source\repos\PatikaExamples\Encapsulation\Encapsulation\obj\Debug\net7.0\Encapsulation.AssemblyInfoInputs.cache
+C:\Users\murat\source\repos\PatikaExamples\Encapsulation\Encapsulation\obj\Debug\net7.0\Encapsulation.AssemblyInfo.cs
+C:\Users\murat\source\repos\PatikaExamples\Encapsulation\Encapsulation\obj\Debug\net7.0\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\murat\source\repos\PatikaExamples\Encapsulation\Encapsulation\bin\Debug\net7.0\Encapsulation.exe
+C:\Users\murat\source\repos\PatikaExamples\Encapsulation\Encapsulation\bin\Debug\net7.0\Encapsulation.deps.json
+C:\Users\murat\source\repos\PatikaExamples\Encapsulation\Encapsulation\bin\Debug\net7.0\Encapsulation.runtimeconfig.json
+C:\Users\murat\source\repos\PatikaExamples\Encapsulation\Encapsulation\bin\Debug\net7.0\Encapsulation.dll
+C:\Users\murat\source\repos\PatikaExamples\Encapsulation\Encapsulation\bin\Debug\net7.0\Encapsulation.pdb
+C:\Users\murat\source\repos\PatikaExamples\Encapsulation\Encapsulation\obj\Debug\net7.0\Encapsulation.dll
+C:\Users\murat\source\repos\PatikaExamples\Encapsulation\Encapsulation\obj\Debug\net7.0\refint\Encapsulation.dll
+C:\Users\murat\source\repos\PatikaExamples\Encapsulation\Encapsulation\obj\Debug\net7.0\Encapsulation.pdb
+C:\Users\murat\source\repos\PatikaExamples\Encapsulation\Encapsulation\obj\Debug\net7.0\Encapsulation.genruntimeconfig.cache
+C:\Users\murat\source\repos\PatikaExamples\Encapsulation\Encapsulation\obj\Debug\net7.0\ref\Encapsulation.dll
