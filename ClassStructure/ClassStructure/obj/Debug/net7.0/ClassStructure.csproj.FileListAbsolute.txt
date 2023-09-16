@@ -1,0 +1,15 @@
+C:\Users\murat\source\repos\PatikaExamples\ClassStructure\ClassStructure\bin\Debug\net7.0\ClassStructure.exe
+C:\Users\murat\source\repos\PatikaExamples\ClassStructure\ClassStructure\bin\Debug\net7.0\ClassStructure.deps.json
+C:\Users\murat\source\repos\PatikaExamples\ClassStructure\ClassStructure\bin\Debug\net7.0\ClassStructure.runtimeconfig.json
+C:\Users\murat\source\repos\PatikaExamples\ClassStructure\ClassStructure\bin\Debug\net7.0\ClassStructure.dll
+C:\Users\murat\source\repos\PatikaExamples\ClassStructure\ClassStructure\bin\Debug\net7.0\ClassStructure.pdb
+C:\Users\murat\source\repos\PatikaExamples\ClassStructure\ClassStructure\obj\Debug\net7.0\ClassStructure.csproj.AssemblyReference.cache
+C:\Users\murat\source\repos\PatikaExamples\ClassStructure\ClassStructure\obj\Debug\net7.0\ClassStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murat\source\repos\PatikaExamples\ClassStructure\ClassStructure\obj\Debug\net7.0\ClassStructure.AssemblyInfoInputs.cache
+C:\Users\murat\source\repos\PatikaExamples\ClassStructure\ClassStructure\obj\Debug\net7.0\ClassStructure.AssemblyInfo.cs
+C:\Users\murat\source\repos\PatikaExamples\ClassStructure\ClassStructure\obj\Debug\net7.0\ClassStructure.csproj.CoreCompileInputs.cache
+C:\Users\murat\source\repos\PatikaExamples\ClassStructure\ClassStructure\obj\Debug\net7.0\ClassStructure.dll
+C:\Users\murat\source\repos\PatikaExamples\ClassStructure\ClassStructure\obj\Debug\net7.0\refint\ClassStructure.dll
+C:\Users\murat\source\repos\PatikaExamples\ClassStructure\ClassStructure\obj\Debug\net7.0\ClassStructure.pdb
+C:\Users\murat\source\repos\PatikaExamples\ClassStructure\ClassStructure\obj\Debug\net7.0\ClassStructure.genruntimeconfig.cache
+C:\Users\murat\source\repos\PatikaExamples\ClassStructure\ClassStructure\obj\Debug\net7.0\ref\ClassStructure.dll
