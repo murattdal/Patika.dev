@@ -1,0 +1,15 @@
+C:\Users\murat\source\repos\PatikaExamples\EnumStructure\EnumStructure\bin\Debug\net7.0\EnumStructure.exe
+C:\Users\murat\source\repos\PatikaExamples\EnumStructure\EnumStructure\bin\Debug\net7.0\EnumStructure.deps.json
+C:\Users\murat\source\repos\PatikaExamples\EnumStructure\EnumStructure\bin\Debug\net7.0\EnumStructure.runtimeconfig.json
+C:\Users\murat\source\repos\PatikaExamples\EnumStructure\EnumStructure\bin\Debug\net7.0\EnumStructure.dll
+C:\Users\murat\source\repos\PatikaExamples\EnumStructure\EnumStructure\bin\Debug\net7.0\EnumStructure.pdb
+C:\Users\murat\source\repos\PatikaExamples\EnumStructure\EnumStructure\obj\Debug\net7.0\EnumStructure.csproj.AssemblyReference.cache
+C:\Users\murat\source\repos\PatikaExamples\EnumStructure\EnumStructure\obj\Debug\net7.0\EnumStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murat\source\repos\PatikaExamples\EnumStructure\EnumStructure\obj\Debug\net7.0\EnumStructure.AssemblyInfoInputs.cache
+C:\Users\murat\source\repos\PatikaExamples\EnumStructure\EnumStructure\obj\Debug\net7.0\EnumStructure.AssemblyInfo.cs
+C:\Users\murat\source\repos\PatikaExamples\EnumStructure\EnumStructure\obj\Debug\net7.0\EnumStructure.csproj.CoreCompileInputs.cache
+C:\Users\murat\source\repos\PatikaExamples\EnumStructure\EnumStructure\obj\Debug\net7.0\EnumStructure.dll
+C:\Users\murat\source\repos\PatikaExamples\EnumStructure\EnumStructure\obj\Debug\net7.0\refint\EnumStructure.dll
+C:\Users\murat\source\repos\PatikaExamples\EnumStructure\EnumStructure\obj\Debug\net7.0\EnumStructure.pdb
+C:\Users\murat\source\repos\PatikaExamples\EnumStructure\EnumStructure\obj\Debug\net7.0\EnumStructure.genruntimeconfig.cache
+C:\Users\murat\source\repos\PatikaExamples\EnumStructure\EnumStructure\obj\Debug\net7.0\ref\EnumStructure.dll
