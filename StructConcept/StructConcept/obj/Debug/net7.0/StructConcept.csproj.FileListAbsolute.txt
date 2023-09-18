@@ -1,0 +1,15 @@
+C:\Users\murat\source\repos\PatikaExamples\StructConcept\StructConcept\bin\Debug\net7.0\StructConcept.exe
+C:\Users\murat\source\repos\PatikaExamples\StructConcept\StructConcept\bin\Debug\net7.0\StructConcept.deps.json
+C:\Users\murat\source\repos\PatikaExamples\StructConcept\StructConcept\bin\Debug\net7.0\StructConcept.runtimeconfig.json
+C:\Users\murat\source\repos\PatikaExamples\StructConcept\StructConcept\bin\Debug\net7.0\StructConcept.dll
+C:\Users\murat\source\repos\PatikaExamples\StructConcept\StructConcept\bin\Debug\net7.0\StructConcept.pdb
+C:\Users\murat\source\repos\PatikaExamples\StructConcept\StructConcept\obj\Debug\net7.0\StructConcept.csproj.AssemblyReference.cache
+C:\Users\murat\source\repos\PatikaExamples\StructConcept\StructConcept\obj\Debug\net7.0\StructConcept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murat\source\repos\PatikaExamples\StructConcept\StructConcept\obj\Debug\net7.0\StructConcept.AssemblyInfoInputs.cache
+C:\Users\murat\source\repos\PatikaExamples\StructConcept\StructConcept\obj\Debug\net7.0\StructConcept.AssemblyInfo.cs
+C:\Users\murat\source\repos\PatikaExamples\StructConcept\StructConcept\obj\Debug\net7.0\StructConcept.csproj.CoreCompileInputs.cache
+C:\Users\murat\source\repos\PatikaExamples\StructConcept\StructConcept\obj\Debug\net7.0\StructConcept.dll
+C:\Users\murat\source\repos\PatikaExamples\StructConcept\StructConcept\obj\Debug\net7.0\refint\StructConcept.dll
+C:\Users\murat\source\repos\PatikaExamples\StructConcept\StructConcept\obj\Debug\net7.0\StructConcept.pdb
+C:\Users\murat\source\repos\PatikaExamples\StructConcept\StructConcept\obj\Debug\net7.0\StructConcept.genruntimeconfig.cache
+C:\Users\murat\source\repos\PatikaExamples\StructConcept\StructConcept\obj\Debug\net7.0\ref\StructConcept.dll
