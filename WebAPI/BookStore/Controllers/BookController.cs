@@ -115,5 +115,23 @@ namespace BookStore.Controllers
             return Ok();
         }
 
+         //Patch
+        
+        //[HttpPatch("{id}")]
+        //public IActionResult PatchBook(int id, [FromBody] JsonPatchDocument<Book> patchDocument)
+        //{
+        //    var book = BookList.SingleOrDefault(x => x.Id == id);
+
+        //    if (book is null)
+        //        return BadRequest();//validation
+
+        //    if (patchDocument is null)
+        //        return BadRequest();//validation
+
+        //    patchDocument.ApplyTo(book);
+
+        //    return Ok();
+        //}
+
     }
 }
